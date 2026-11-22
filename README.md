@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou a Tiffany 👋
 
-<!--
-**lady-suiri/lady-suiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software, com foco em Java e apaixonada por resolver problemas com código
 
-Here are some ideas to get you started:
+## Sobre mim
+- 🎓 Cursando Engenharia de Software
+- 📚 Estudando Java e novas tecnologias na prática
+- 🎯 Buscando estágio em desenvolvimento de software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ferramentas
+Java • HTML • Git • GitHub
+
+## Contato
+[LinkedIn](https://www.linkedin.com/in/tiffany-schaurich-022a39313/)
